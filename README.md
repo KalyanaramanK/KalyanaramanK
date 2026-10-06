@@ -12,28 +12,28 @@
 
 ## 🧭 Career Timeline
 <p align="center">
-  <img src="timeline.svg" alt="Career journey timeline" width="100%" />
+  <img src="assets/timeline.svg" alt="Career journey timeline" width="100%" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KalyanaramanK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalyanaramanK&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=KalyanaramanK&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalyanaramanK&theme=tokyo-night&hide_border=true" />
 </p>
 
 ## 🐍 Contribution Snake
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KalyanaramanK/KalyanaramanK/output/github-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/KalyanaramanK/KalyanaramanK/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -52,8 +52,8 @@
 
 ## 🏆 Pinned Repos
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/YOUR_USERNAME/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/KalyanaramanK/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KalyanaramanK&repo=REPO_1&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/KalyanaramanK/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KalyanaramanK&repo=REPO_2&theme=tokyonight&hide_border=true" /></a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+views" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=KalyanaramanK&color=blueviolet&style=flat-square&label=Profile+views" /></p>
