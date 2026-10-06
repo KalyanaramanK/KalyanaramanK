@@ -12,7 +12,7 @@
 
 ## 🧭 Career Timeline
 <p align="center">
-  <img src="assets/timeline.svg" alt="Career journey timeline" width="100%" />
+  <img src="timeline.svg" alt="Career journey timeline" width="100%" />
 </p>
 
 ---
